@@ -1,0 +1,11 @@
+{
+  "gruvbox.nvim": { "branch": "main", "commit": "331507561a46d6ce484f576299e0297e277bac7f" },
+  "lazy.nvim": { "branch": "main", "commit": "5b4444f0d7e556deba3f7ca949a2ba0e2c3369fb" },
+  "lualine.nvim": { "branch": "master", "commit": "e99d733e0213ceb8f548ae6551b04ae32e590c80" },
+  "nvim-tree.lua": { "branch": "master", "commit": "bbb6d4891009de7dab05ad8fc2d39f272d7a751c" },
+  "nvim-treesitter": { "branch": "master", "commit": "98d63d0da4293741dce5d3136a8243de9c24eae9" },
+  "nvim-web-devicons": { "branch": "master", "commit": "4af94fec29f508159ceab5413383e5dedd6c24e3" },
+  "packer.nvim": { "branch": "master", "commit": "1d0cf98a561f7fd654c970c49f917d74fafe1530" },
+  "plenary.nvim": { "branch": "master", "commit": "253d34830709d690f013daf2853a9d21ad7accab" },
+  "telescope.nvim": { "branch": "master", "commit": "b79cd6c88b3d96b0f49cb7d240807cd59b610cd8" }
+}
