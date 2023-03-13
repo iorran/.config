@@ -28,6 +28,12 @@ local plugins = {
   'williamboman/mason.nvim',
   'williamboman/mason-lspconfig.nvim',
   'neovim/nvim-lspconfig',
-} 
+  "windwp/nvim-autopairs",
+   {
+       "windwp/nvim-ts-autotag",
+        tag = '0.1.0',
+        dependencies = { { "windwp/nvim-autopairs",} }
+   },
+}
 
 require("lazy").setup(plugins, opts)
