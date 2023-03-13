@@ -34,6 +34,7 @@ local plugins = {
         tag = '0.1.0',
         dependencies = { { "windwp/nvim-autopairs",} }
    },
+   'lewis6991/gitsigns.nvim',
 }
 
 require("lazy").setup(plugins, opts)
